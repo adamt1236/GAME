@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 20499d415809ca942b8b2acc9e011b0e
+  - enabled: 1
+    path: Assets/Scenes/Maze1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Scores.unity
+    guid: a5379ded33b501d47960f9fb5937b9e2
+  - enabled: 1
+    path: Assets/Scenes/Intermission.unity
+    guid: 2ad19d91a04fb2f47bace19f47669623
+  - enabled: 1
+    path: Assets/Scenes/Death screen.unity
+    guid: 3e88dbf6588d0f040b7208b4ad97bda4
+  - enabled: 1
+    path: Assets/Scenes/Maze2.unity
+    guid: 3e9fa5d1da7f26941905c8ad41acb36c
+  - enabled: 1
+    path: Assets/Scenes/death screen2.unity
+    guid: 10f2c9821146dc248ba598893f071012
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: c5a41055c963e5045baf92886c2b36eb
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
